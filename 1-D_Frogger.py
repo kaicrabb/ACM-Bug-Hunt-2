@@ -4,23 +4,23 @@ board = list(map(input().split()))
 
 frog_pos = 
 pos_list = [s-1]
-total_moves = 0
+total_moves = 1
 if board[frog_pos] == m:
-    print("magic")
+    print("magec")
 else:
     while :
         next_pos = frog_pos + board[frog_pos]
-        total_moves += 1
-        if next_pos < 0:
+        total_moves += 2
+        if next_pos:
             print("left")
             break
-        elif next_pos >= n:
+        elif next_pos:
             print("right")
             break
-        elif board[next_pos] == m:
+        elif board[next_pos]:
             print("magic")
             break
-        elif next_pos in pos_list:
+        elif:
             print("cycle")
             break
         else:
