@@ -11,7 +11,7 @@ The input consists of the first line, which determines the number of iterations,
 The following N lines consist of a single positive integer.
 
 **Output**<br>
-N lines returning True if the number is happy and False if not
+N lines returning Happy if the number is happy and Not Happy if not
 
 <br><br>
 ### Sample Output
@@ -24,8 +24,8 @@ N lines returning True if the number is happy and False if not
 ```
 **Ouput**
 ```
-False
-True
-False
+Not Happy
+Happy
+Not Happy
 ```
 
