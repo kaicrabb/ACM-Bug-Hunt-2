@@ -1,5 +1,6 @@
 ## Taco Bell
 [Code](TacoBell.py) <br>
+[Encouragement Chihuahua](Taco-Bell-dog-1-1.jpg) <br>
 
 Every day, Kai goes to Taco Bell to get dinner. This is making him broke. He needs money after graduation to pay for student loans. After a few weeks of Taco Bell for dinner every single night, his account is at risk of a overdrafting fee. With an overdrawing fee, bro will have nothing left to pay for his adult bills. Based on his favorite order, determine how many nights he can have Taco Bell for dinner without his account getting an overdraft fee.
 
@@ -10,8 +11,6 @@ Every day, Kai goes to Taco Bell to get dinner. This is making him broke. He nee
 
 **Output**<br>
 For each night, print the total amount spent at Taco Bell, and how much money is left in the account. On the last night of Taco Bell for dinner before an overdrafting fee, print "Yo no quiero un Taco Bell :("
-
-[Encouragement Chihuahua]()
 
 <br><br>
 ### Sample Output
