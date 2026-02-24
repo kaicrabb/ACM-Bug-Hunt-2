@@ -5,7 +5,7 @@ menu = {
     "Taco": 
     "Quesadilla": 
     "Nachos": 
-    "Drink": 
+    "BajaBlast": 
 }
 
 
