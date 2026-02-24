@@ -1,4 +1,5 @@
-
+## 1-D Frogger
+[Code](1-D.py) <br>
 
 Frogger is a classic 2-D video game that challenges the player to move a frog character safely across a traffic-filled road and a hazardous river. What is not well known is that Frogger actually began as a prototype board game based on a 
 1-D concept at a now-defunct toy company. After spending millions of dollars following the advice of consultants, company executives realized that the resulting game was almost completely deterministic, and therefore not much fun to play, so they sold all Frogger rights to a video game company in an attempt to recoup some of the development costs. The rest, as they say, is video game history.
@@ -29,3 +30,29 @@ The first line of input contains three space-separated integers, n, s, m, where 
 
 Output
 Output two lines. The first line contains a word indicating the fate of the frog, one of {‘magic’, ‘left’, ‘right’, ‘cycle’}, corresponding to the four fates listed above, respectively. The second line contains the integer h, the number of hops the frog makes before encountering its fate.
+
+<br><br>
+### Sample Output
+**Input**
+```
+6 4 42
+-9 1 42 -2 -3 -3
+```
+**Ouput**
+```
+magic
+2
+```
+
+<br><br>
+### Sample Output 2
+**Input**
+```
+8 2 13
+7 5 4 2 13 -2 -3 6
+```
+**Ouput**
+```
+cycle
+4
+```
