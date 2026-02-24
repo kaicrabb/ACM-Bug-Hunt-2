@@ -22,7 +22,7 @@ The game ends as soon as the frog encounters one of the following four fates:
 
 4. The frog hops onto a square where the frog has been before, and therefore is trapped in a cycle.
 
-Let h >= 0be the number of hops the frog makes before the game ends. Given an instance of the game, your task is to determine the frog’s fate and the corresponding value of h.
+Let h >= 0 be the number of hops the frog makes before the game ends. Given an instance of the game, your task is to determine the frog’s fate and the corresponding value of h.
 .
 
 **Input**<br>
