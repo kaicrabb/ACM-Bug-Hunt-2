@@ -11,6 +11,8 @@ Every day, Kai goes to Taco Bell to get dinner. This is making him broke. He nee
 **Output**<br>
 For each night, print the total amount spent at Taco Bell, and how much money is left in the account. On the last night of Taco Bell for dinner before an overdrafting fee, print "Yo no quiero un Taco Bell :("
 
+[Encouragement Chihuahua]()
+
 <br><br>
 ### Sample Output
 **Input**
