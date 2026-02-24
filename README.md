@@ -3,15 +3,15 @@ Welcome the Northwest Missouri State University Association for Computing Machin
 **Click [here](https://kaicrabb.github.io/debug-quest/) to enter the passcodes!**
 
 ## Challenges: 
-|  **Type**  |  **Challenge**  |  **Points**  |
-|---|---|---|
-|  All  |  [Halloween](Halloween.md)  |  2  |
-|  Syntax  |  [PrintNightmare](printNightmare.md)  |  2  |
-|  Runtime  |  [Inquiry](inquiry.md)  |  3  | 
-|  Runtime  |  [CalcGrade](CalcGrade.md)  |  4  |
-|  Logic  |  [AddNum](addNum.md)  |  4  |
-|  Logic  |  [ANewAlphabet](anewalphabet.md)  |  5  |
-|  Logic  |  [SodaSlurper](SodaSlurper.md)  |  5  |
+|  **Challenge**  |  **Points**  |
+|---|---|
+|  [primeNumber](primeNumber.md)  |  2  |
+|  [TacoBell](TacoBell.md)  |  2  |
+|  [LittlePunch](LittlePunch.md)  |  3  | 
+|  [Chanukah](chaukah.md)  |  4  |
+|  [Blank](Blank.md)  |  4  |
+|  [Blank](Blank.md)  |  5  |
+|  [1-D_Frogger](1-D_Frogger.md)  |  5  |
 ## Helpful Resources:
 - [W3](https://www.w3schools.com/python/)
 - [Python Docs](https://docs.python.org/3/tutorial/index.html)
