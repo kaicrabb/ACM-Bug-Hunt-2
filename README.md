@@ -1,5 +1,5 @@
 # NWMSU ACM Bug Hunt 2
-Welcome the Northwest Missouri State University Association for Computing Machinery Bug Hunt!<br>
+Welcome to the Northwest Missouri State University Association for Computing Machinery Bug Hunt!<br>
 
 ## Challenges: 
 |  **Challenge**  |  **Points**  |
