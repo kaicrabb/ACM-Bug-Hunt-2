@@ -18,9 +18,9 @@ For each night, print the total amount spent at Taco Bell, and how much money is
 ```
 3
 20
-Taco Burrito Drink
-Crunchwrap Drink
-Quesadilla Nachos Drink
+Taco Burrito BajaBlast
+Crunchwrap BajaBlast
+Quesadilla Nachos BajaBlast
 ```
 **Ouput**
 ```
